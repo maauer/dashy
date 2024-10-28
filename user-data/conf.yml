@@ -22,9 +22,18 @@ sections:
     icon: si-proxmox
   - title: Proxmox VE 2
     url: https://pve2.maauer.net:8006
+    icon: si-proxmox
   - title: Proxmox Backup 1
     url: https://pbs1.maauer.net:8007
+    icon: si-proxmox
 - name: Media
+  - title: Jellyfin
+    url: https://jellyfin.maauer.net
+    icon: si-jellyfin
+- name: Other
+  - title: Bitwarden
+    url: https://bitwarden.maauer.ner
+    icon: si-bitwarden
 - name: Getting Started
   icon: fas fa-rocket
   items:
