@@ -19,6 +19,7 @@ sections:
   items:
   - title: Proxmox VE#1
     url: https://pve.maauer.net
+    icon: si-proxmox
   - title: Proxmox VE 2
     url: https://pve2.maauer.net:8006
   - title: Proxmox Backup 1
