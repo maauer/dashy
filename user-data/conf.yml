@@ -27,10 +27,12 @@ sections:
     url: https://pbs1.maauer.net:8007
     icon: si-proxmox
 - name: Media
+  items:
   - title: Jellyfin
     url: https://jellyfin.maauer.net
     icon: si-jellyfin
 - name: Other
+  items:
   - title: Bitwarden
     url: https://bitwarden.maauer.ner
     icon: si-bitwarden
