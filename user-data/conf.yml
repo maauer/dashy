@@ -15,6 +15,15 @@ appConfig:
 
 # Main content - An array of sections, each containing an array of items
 sections:
+- name: Virtualization
+  items:
+  - title: Proxmox VE#1
+    url: https://pve.maauer.net
+  - title: Proxmox VE 2
+    url: https://pve2.maauer.net:8006
+  - title: Proxmox Backup 1
+    url: https://pbs1.maauer.net:8007
+- name: Media
 - name: Getting Started
   icon: fas fa-rocket
   items:
